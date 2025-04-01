@@ -3,7 +3,7 @@ import random
 from datetime import datetime
 
 # Инициализация бота
-API_TOKEN = '7599299931:AAHShSxV-4mt2Mkxov9KSI6qEteQjdoZJKI'
+API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 
 # Общая память для хранения дедлайнов
